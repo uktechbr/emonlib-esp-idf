@@ -1,0 +1,18 @@
+menu "Emonlib ESP-IDF"
+
+    config EMONLIB_CURRENT_SENSOR_ADC1_CHANNEL
+        int "CURRENT SENSOR ADC1 CHANNEL"
+        default 6
+        range 0 7
+        
+    config EMONLIB_VOLTAGE_SENSOR_ADC1_CHANNEL
+        int "VOLTAGE SENSOR ADC1 CHANNEL"
+        default 7
+        range 0 7
+        
+    config EMONLIB_SUPPLY_VOLTAGE
+        int "Emonlib Supply Voltage"
+        default 3300
+        range 3000 5000
+        
+endmenu
