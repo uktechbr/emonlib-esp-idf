@@ -26,7 +26,7 @@ typedef struct {
     double realPower;
     double apparentPower;
     double powerFactor;
-    time_t time;
+    int64_t time;
 } emonlib_esp_idf_data_t;
 
 #define READVCC_CALIBRATION_CONST 1126400L
