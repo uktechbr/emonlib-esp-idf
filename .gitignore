@@ -1,5 +1,7 @@
+# Default folders 
 dist/
 vscode/
+build/
 
 # Prerequisites
 *.d
