@@ -3,3 +3,4 @@ description: Emonlib ESP-IDF
 url: https://github.com/uktechbr/emonlib-esp-idf
 dependencies:
   idf: ">=4.0"
+license: "AGPL-3.0-only"

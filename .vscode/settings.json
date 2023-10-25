@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "emonlib-esp-idf.h": "c",
+        "math.h": "c",
+        "adc.h": "c"
+    }
+}

@@ -1,6 +1,5 @@
-# emonlib-esp-idf
-Emonlib - ESP-IDF component
-
+# Energy Monitoring Library for ESP32 Platform
+### emonlib-esp-idf
 Based on:
-   - https://github.com/openenergymonitor/EmonLib
-   - https://github.com/Savjee/EmonLib-esp32
+- [EmonLib](https://github.com/openenergymonitor/EmonLib)
+- [EmonLib-esp32](https://github.com/Savjee/EmonLib-esp32)
